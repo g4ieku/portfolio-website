@@ -6,14 +6,14 @@ This is a dark-light contrast website for a portfolio. It is related to being a 
 
 ## Features
 
-- Dark and light contrast
-- Responsive design
-- Full height header/hero
-- Background image overlays
-- Typewriter effect in header
-- Lightbox modals for projects
-- Progress bar stats
-- Font awesome icons
+-  Dark and light contrast
+-  Responsive design
+-  Full height header/hero
+-  Background image overlays
+-  Typewriter effect in header
+-  Lightbox modals for projects
+-  Progress bar stats
+-  Font awesome icons
 
 ## Usage
 
